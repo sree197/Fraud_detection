@@ -7,4 +7,4 @@ def ml_model2:
 def ml_model3:
     print("ml_model3")
 
-print("final model is model2")
+print("final model is model3")
